@@ -4,4 +4,4 @@ The directory should be as follows
 - requirements.txt file : should contain the packages used in the practical work
 - README.md : for additional informations
 
-![Directory hierarchy](https://github.com/bachtn/recommender_system_practical_work_students/blob/master/doc/directory_hierarchy.png?raw=true)
+![Directory hierarchy](https://github.com/vivien-DSA/recsys_practice/blob/main/doc/directory_hierarchy.png?raw=true)
