@@ -1,7 +1,9 @@
-The directory should be as follows
-- data directory : should contain the data that will be used for the practical work
-- models : should contain save models
-- notebook directory : should contain all the practical work notebooks
-- recsys_dsa_2020, modules, package: should contain all packages, modules (functions)
-- requirements.txt file : should contain the packages used in the practical work
+Create a recommender system for Movies and Benchmark it.
+
+The directory is as follows
+- data directory : contains the data that will be used for the practical work
+- models : contains save models
+- notebook directory : contains all the practical work notebooks
+- recsys_dsa_2020, modules, package: contain all packages, modules (functions)
+- requirements.txt file : contains the packages used in the practical work
 - README.md : for additional informations
